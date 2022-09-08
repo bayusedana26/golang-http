@@ -1,4 +1,4 @@
-package main
+package golanghttp // Main
 
 import (
 	"encoding/json"
